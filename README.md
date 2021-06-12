@@ -16,6 +16,8 @@ This project is inspired by [friedmud/hue_weather](https://github.com/friedmud/h
 - Phillips Hue bridge and two light bulbs
 - A machine/server to host this service on your local network
 - A free API key from Open Weather Map
+- Docker
+- Python 3
 
 ## Running
 
